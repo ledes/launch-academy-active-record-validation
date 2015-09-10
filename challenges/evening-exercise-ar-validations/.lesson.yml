@@ -1,0 +1,8 @@
+---
+title: "Brussels Sprouts Recipe Blog with Validations"
+type: "challenge"
+description: "Validation practice with ActiveRecord."
+visibility: "assign"
+tags: "validations, activerecord"
+ignore:
+- "evening-exercise-ar-validations.md"
